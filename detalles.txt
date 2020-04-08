@@ -8,3 +8,6 @@ MOBILE
 		parrafos
 	Anchura de las columnas de los productos para ciertas pantallas md-lg
 	RESUMEN: MEJORAR LA GESTIÓN DE LOS BREAKPOINTS
+
+IMÁGENES
+	Buscar imágenes adecuadas para que cargen en funcion de los distintos tipos de pantallas
