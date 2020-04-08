@@ -1,0 +1,10 @@
+DESKTOP
+	tamaño de letra de la navegacion
+	tamaño de letra en general
+	Anchura footer
+MOBILE
+	tamaños de letra
+		titulos
+		parrafos
+	Anchura de las columnas de los productos para ciertas pantallas md-lg
+	RESUMEN: MEJORAR LA GESTIÓN DE LOS BREAKPOINTS
