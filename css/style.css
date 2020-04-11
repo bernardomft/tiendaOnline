@@ -5,3 +5,26 @@
 .titulo-h3{
     font-size:3.2vw;
 }
+
+@media screen and (max-width: 576px)
+{
+    .texto-imagen{
+        font-size: 2.0rem;
+    }
+
+    .titulo-h3{
+        font-size:3.0rem;
+    }
+}
+
+@media screen and (max-width: 768px)
+{
+    .texto-imagen{
+        font-size: 2.0rem;
+    }
+
+    .titulo-h3{
+        font-size:3.0rem;
+    }
+}
+

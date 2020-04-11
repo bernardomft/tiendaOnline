@@ -1,13 +1,5 @@
-DESKTOP
-	tamaño de letra de la navegacion
-	tamaño de letra en general
-	Anchura footer
-MOBILE
-	tamaños de letra
-		titulos
-		parrafos
-	Anchura de las columnas de los productos para ciertas pantallas md-lg
-	RESUMEN: MEJORAR LA GESTIÓN DE LOS BREAKPOINTS
+CUADRAR TAMAÑOS DE LETRA.
+USAR CARDS PARA LOS ARTICULOS
 
 IMÁGENES
 	Buscar imágenes adecuadas para que cargen en funcion de los distintos tipos de pantallas
